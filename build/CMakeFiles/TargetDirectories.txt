@@ -1,0 +1,3 @@
+/home/danewhittenburg/hwil/build/CMakeFiles/active_streaming.dir
+/home/danewhittenburg/hwil/build/CMakeFiles/edit_cache.dir
+/home/danewhittenburg/hwil/build/CMakeFiles/rebuild_cache.dir
